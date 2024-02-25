@@ -1,0 +1,301 @@
+{
+  "basics": {
+    "name": "Luis Antonio Milano Piñango",
+    "label": "Fullstack developer con mas de 10 años de experiencia.",
+    "image": "/me.jpg",
+    "email": "milano.dsign@gmail.com",
+    "phone": "+57 3028012219",
+    "url": "https://midu.dev",
+    "summary": "A lo largo de mi recorrido como Frontend Developer, he perfeccionado mi experiencia en maquetación web y móvil. Mi destreza va más allá de lo técnico; soy eficiente bajo presión y mi compromiso social se refleja en cada proyecto. Traduzco diseños en interfaces atractivas y funcionales, adaptadas a diversos dispositivos y navegadores, y mi enfoque en la calidad nunca se ve comprometido, incluso en situaciones desafiantes. Colaborativo por naturaleza, fomento relaciones sólidas mientras contribuyo a un entorno de trabajo positivo y enriquecedor ",
+    "location": {
+      "address": "",
+      "postalCode": "111156",
+      "city": "Bogotá D.C.",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "luis-milano-92140bb9",
+        "url": "https://www.linkedin.com/in/luis-milano-92140bb9/"
+      },
+      {
+        "network": "GitHub",
+        "username": "milanodsign",
+        "url": "https://github.com/milanodsign"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "FARMU S.A.S",
+      "position": "Frontend Developer",
+      "url": "https://www.farmu.com.co/",
+      "startDate": "2022-05-10",
+      "endDate": "2023-04-30",
+      "summary": "Colaboré en el desarrollo de HERMES, una aplicación web que funciona como plataforma de comercio electrónico interna para los farmers (vendedores de la empresa), permitiéndoles gestionar los pedidos de los clientes.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "F2P S.A.S",
+      "position": "Frontend Developer",
+      "url": "https://www.f2p.co/",
+      "startDate": "2021-09-01",
+      "endDate": "2022-05-31",
+      "summary": "Desarrollo de la interfaz de usuario para juegos empresariales (gamificación).",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Pinzmor Consultores S.A.S",
+      "position": "Fullstack Developer",
+      "startDate": "2021-01-01",
+      "endDate": "2021-06-30",
+      "summary": "Migración de un diseño en HTML puro a Bootstrap 4, con integración al backend desarrollado en CodeIgniter.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "INTERCOM Soluciones S.A.S ",
+      "position": "Frontend Developer",
+      "startDate": "2020-12-01",
+      "endDate": "2021-01-15",
+      "summary": "Migración de HTML puro a Angular 10, con integración al backend desarrollado en Laravel.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Grupo Arcia S.A.S.",
+      "position": "Frontend Developer",
+      "startDate": "2019-11-01",
+      "endDate": "2020-09-30",
+      "summary": "Desarrollo de aplicaciones web y móviles.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Dubai Class S.A.S.",
+      "position": "Fullstack Developer",
+      "startDate": "2018-06-01",
+      "endDate": "",
+      "summary": "Diseño y desarrollo de DubaiDrive, una aplicación web para la gestión de los vínculados de la empresa.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Universitat Centroocidental Lisandro Alvarado",
+    "url": "http://www.ucla.edu.ve/",
+    "area": "Ingeniería en Informática",
+    "studyType": "Bachelor",
+    "startDate": "2003-01-01",
+    "endDate": "2006-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [{
+    "name": "Music",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Dubai Drive",
+      "isActive": true,
+      "description": "Aplicativo web para la gestion de los vínculados de la empresa, generacion de Formato unico de Estracto (FUEC) para el transito legal de los vehiculos por todo el territorio colombiano.",
+      "highlights": [
+        "Bootstrap 5",
+        "JavaScript",
+        "JQuery",
+        "PHP"
+      ],
+      "url": "https://dubaidrive.info/"
+    },
+    {
+      "name": "Air Logistics System",
+      "isActive": true,
+      "description": "Aplicativo web para la logistica de envío de mercancia, gestion de clientes, usuarios operativos y conductores de la empresa.",
+      "highlights": [
+        "Bootstrap 5",
+        "JavaScript",
+        "React.js",
+        "Redux Toolkit",
+        "PHP"
+      ],
+      "url": "https://webaplication.airlogisticsrr.com/"
+    },
+    {
+      "name": "EVENTSOFT",
+      "isActive": true,
+      "description": "Plataforma para la creacion y ejecucion mediante citas para mesas de negocios entre empresas.",
+      "highlights": [
+        "Bootstrap 5",
+        "JavaScript",
+        "React.js",
+        "Redux Toolkit",
+        "PHP"
+      ],
+      "url": "https://eventsoftsistema.com/"
+    },
+    {
+      "name": "Lider Tickets",
+      "isActive": true,
+      "description": "Plataforma para la compra, venta y creacion de eventos (tickera de eventos).",
+      "highlights": [
+        "Bootstrap 5",
+        "JavaScript",
+        "React.js",
+        "Redux Toolkit",
+        "PHP"
+      ],
+      "url": "https://lidertickets.cl/"
+    },
+    {
+      "name": "Distrito JumpBox",
+      "isActive": true,
+      "description": "Plataforma de registro y login para ingreso al parque.",
+      "highlights": [
+        "Bootstrap 5",
+        "JavaScript",
+        "JQuery",
+        "PHP"
+      ],
+      "url": "https://www.distritojumpbox.co/"
+    },
+    {
+      "name": "Water X Project",
+      "isActive": true,
+      "description": "Página web de la empresa alemana Water X Project, la cual se encarga de todo lo relacionado con energias renovables.",
+      "highlights": [
+        "JavaScript",
+        "React.js",
+        "CSS"
+      ],
+      "url": "https://waterxproject.com/"
+    }
+  ]
+}
