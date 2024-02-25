@@ -5,7 +5,7 @@
     "image": "/me.jpg",
     "email": "milano.dsign@gmail.com",
     "phone": "+57 3028012219",
-    "url": "https://midu.dev",
+    "url": "https://main--briefcaselm.netlify.app/",
     "summary": "Con más de 10 años de experiencia como desarrollador de front-end, soy un profesional apasionado por el diseño y la funcionalidad de las aplicaciones web y móviles. Mi misión es crear experiencias de usuario atractivas, intuitivas y responsivas, utilizando las últimas tecnologías y frameworks como React, React Native, NextJs, NodeJs, Javascript y Typescript. En mi último trabajo, en Farmu, una startup de comercio electrónico de productos farmacéuticos, desarrollé y mantuve la interfaz de la plataforma web, utilizando React.js, entre algunas herramientas. Colaboré con el equipo de back-end y el de diseño para integrar las APIs y los recursos gráficos, y optimizar el rendimiento y la usabilidad de la aplicación. Además, participé en el desarrollo de juegos web y móvil con React Native y React.js para Free to Play, una startup de entretenimiento digital, donde creé juegos interactivos, dinámicos y divertidos para diferentes públicos y dispositivos.",
     "location": {
       "address": "",
@@ -92,7 +92,7 @@
     }
   ],
   "education": [{
-    "institution": "Universitat Centroocidental Lisandro Alvarado",
+    "institution": "Universidad Centroocidental Lisandro Alvarado",
     "url": "http://www.ucla.edu.ve/",
     "area": "Ingeniería en Informática",
     "studyType": "Bachelor",
@@ -218,6 +218,7 @@
       ],
       "url": "https://webaplication.airlogisticsrr.com/"
     },
+    
     {
       "name": "EVENTSOFT",
       "isActive": true,
@@ -257,9 +258,20 @@
       "url": "https://www.distritojumpbox.co/"
     },
     {
+      "name": "Air Logistics R&R S.A.S",
+      "isActive": true,
+      "description": "Página web informativa para la empresa Air Logistics R&R S.A.S.",
+      "highlights": [
+        "JavaScript",
+        "React.js",
+        "CSS"
+      ],
+      "url": "https://airlogisticsrr.com/"
+    },
+    {
       "name": "Water X Project",
       "isActive": true,
-      "description": "Página web de la empresa alemana Water X Project, la cual se encarga de todo lo relacionado con energias renovables.",
+      "description": "Página web informatíva de la empresa alemana Water X Project, la cual se encarga de todo lo relacionado con energias renovables.",
       "highlights": [
         "JavaScript",
         "React.js",
