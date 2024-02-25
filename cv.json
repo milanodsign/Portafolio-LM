@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Luis Antonio Milano Piñango",
-    "label": "Fullstack developer con mas de 10 años de experiencia.",
+    "label": "Fullstack Developer con más de 10 años de experiencia.",
     "image": "/me.jpg",
     "email": "milano.dsign@gmail.com",
     "phone": "+57 3028012219",
@@ -84,7 +84,7 @@
       "name": "Dubai Class S.A.S.",
       "position": "Fullstack Developer",
       "startDate": "2018-06-01",
-      "endDate": "",
+      "endDate": "Actual",
       "summary": "Diseño y desarrollo de DubaiDrive, una aplicación web para la gestión de los vínculados de la empresa.",
       "highlights": [
         "Started the company"
@@ -102,25 +102,6 @@
     "courses": [
       "DB1101 - Basic SQL"
     ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
   }],
   "skills": [
     {
@@ -211,17 +192,6 @@
       "fluency": "Basic"
     }
   ],
-  "interests": [{
-    "name": "Music",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
   "projects": [
     {
       "name": "Dubai Drive",
